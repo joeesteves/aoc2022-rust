@@ -1,0 +1,8 @@
+*.*
+**/main
+!*.rs
+!**/*.rs
+!/*.txt
+!**/*.txt
+!.gitignore
+/target
